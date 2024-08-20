@@ -1,0 +1,20 @@
+[
+ 	{
+ 		"bank": "uboce",
+ 		"n": 0,
+ 		"type": "audio",
+ 		"url": "0.wav"
+ 	},
+ 	{
+ 		"bank": "uboce",
+ 		"n": 1,
+ 		"type": "audio",
+ 		"url": "1.wav"
+ 	},
+ 	{
+ 		"bank": "uboce",
+ 		"n": 2,
+ 		"type": "audio",
+ 		"url": "2.wav"
+ 	}
+ ]
